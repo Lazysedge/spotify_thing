@@ -1,0 +1,10 @@
+# Hide your virtual environment folder
+venv/
+
+# Hide any local environment files containing secret API keys/passwords
+.env
+secret.txt
+
+# Hide Python cache files
+__pycache__/
+*.pyc

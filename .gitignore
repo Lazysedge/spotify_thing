@@ -8,3 +8,5 @@ secret.txt
 # Hide Python cache files
 __pycache__/
 *.pyc
+
+downloads/
